@@ -1,7 +1,7 @@
 clear variables
 restoredefaultpath
 
-addpath %ścieżka_do_fieldtrip_toolbox
+addpath %path to fieldtrip toolbox
 ft_defaults
 
 load ./forward_modeling/mri_aligned_headshape
